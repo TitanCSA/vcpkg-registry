@@ -1,0 +1,11 @@
+{
+  "name": "windows-input-filter",
+  "version-string": "0.1.0",
+  "description": "Project-name alias for Windows-Input-Filter. Installs the tested windows-input-filter-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "windows-input-filter-sdk"
+  ]
+}

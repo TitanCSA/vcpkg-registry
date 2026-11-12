@@ -1,0 +1,11 @@
+{
+  "name": "titan-file-filter",
+  "version-string": "0.1.0",
+  "description": "Project-name alias for Titan-File-Filter. Installs the tested titan-file-filter-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "titan-file-filter-sdk"
+  ]
+}

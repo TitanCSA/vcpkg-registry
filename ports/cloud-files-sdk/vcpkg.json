@@ -1,0 +1,11 @@
+{
+  "name": "cloud-files-sdk",
+  "version-string": "0.1.1",
+  "description": "Project-name alias for Cloud-Files-SDK. Installs the tested cloud-files-sdk-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "cloud-files-sdk-sdk"
+  ]
+}

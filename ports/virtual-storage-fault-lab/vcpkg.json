@@ -1,0 +1,11 @@
+{
+  "name": "virtual-storage-fault-lab",
+  "version-string": "0.1.1",
+  "description": "Project-name alias for Virtual-Storage-Fault-Lab. Installs the tested virtual-storage-fault-lab-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "virtual-storage-fault-lab-sdk"
+  ]
+}

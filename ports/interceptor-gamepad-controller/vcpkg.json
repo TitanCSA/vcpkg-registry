@@ -1,0 +1,11 @@
+{
+  "name": "interceptor-gamepad-controller",
+  "version-string": "1.0.13",
+  "description": "Project-name alias for Interceptor-Gamepad-Controller. Installs the tested interceptor-gamepad-controller-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "interceptor-gamepad-controller-sdk"
+  ]
+}

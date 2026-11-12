@@ -1,0 +1,11 @@
+{
+  "name": "fyradevice",
+  "version-string": "0.1.0",
+  "description": "Project-name alias for FyraDevice. Installs the tested fyradevice-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "fyradevice-sdk"
+  ]
+}

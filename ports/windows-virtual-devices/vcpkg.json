@@ -1,0 +1,11 @@
+{
+  "name": "windows-virtual-devices",
+  "version-string": "0.1.0",
+  "description": "Project-name alias for Windows-Virtual-Devices. Installs the tested windows-virtual-devices-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "windows-virtual-devices-sdk"
+  ]
+}

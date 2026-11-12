@@ -1,0 +1,11 @@
+{
+  "name": "registryguard",
+  "version-string": "0.1.1",
+  "description": "Project-name alias for RegistryGuard. Installs the tested registryguard-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "registryguard-sdk"
+  ]
+}

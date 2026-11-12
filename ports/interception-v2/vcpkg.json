@@ -1,0 +1,11 @@
+{
+  "name": "interception-v2",
+  "version-string": "2.0.0",
+  "description": "Project-name alias for Interception-V2. Installs the tested interception-v2-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "LGPL-3.0-or-later",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "interception-v2-sdk"
+  ]
+}

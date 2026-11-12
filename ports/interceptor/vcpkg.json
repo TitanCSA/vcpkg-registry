@@ -1,0 +1,11 @@
+{
+  "name": "interceptor",
+  "version-string": "1.4.22",
+  "description": "Project-name alias for Interceptor. Installs the tested interceptor-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "interceptor-sdk"
+  ]
+}

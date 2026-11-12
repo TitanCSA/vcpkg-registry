@@ -1,0 +1,11 @@
+{
+  "name": "interceptor-multilang",
+  "version-string": "1.0.0",
+  "description": "Project-name alias for Interceptor-MultiLang. Installs the tested interceptor-multilang-sdk native SDK port.",
+  "homepage": "https://github.com/TitanCSA/vcpkg-registry",
+  "license": "MIT",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "interceptor-multilang-sdk"
+  ]
+}
