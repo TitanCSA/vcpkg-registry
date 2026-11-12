@@ -1,6 +1,6 @@
 {
   "registry": "https://github.com/TitanCSA/vcpkg-registry",
-  "baseline": "2a5f4f4037f5fbd911344250e43e7a1d48e04fe6",
+  "baseline": "33fd43f72d7137f6ebaac4c1eeab001f66bf3a98",
   "curated_microsoft_registry": false,
   "ports": [
     {
@@ -248,6 +248,230 @@
       "project": "Windows-Virtual-USB",
       "version": "0.1.0",
       "source": "https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/sdk-v0.1.0/windows-virtual-usb-sdk-0.1.0.tar.gz"
+    }
+  ],
+  "aliases": [
+    {
+      "project": "AutoHotInterceptor",
+      "name": "autohotinterceptor",
+      "legacy_port": "autohotinterceptor-sdk",
+      "version": "1.0.0"
+    },
+    {
+      "project": "Browser-Control-SDK",
+      "name": "browser-control-sdk",
+      "legacy_port": "browser-control-sdk-sdk",
+      "version": "0.2.0"
+    },
+    {
+      "project": "Changed-Block-Tracking-SDK",
+      "name": "changed-block-tracking-sdk",
+      "legacy_port": "changed-block-tracking-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Cloud-Files-SDK",
+      "name": "cloud-files-sdk",
+      "legacy_port": "cloud-files-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Connection-Trace-Studio",
+      "name": "connection-trace-studio",
+      "legacy_port": "connection-trace-studio-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "File-Trace-Studio",
+      "name": "file-trace-studio",
+      "legacy_port": "file-trace-studio-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "FyraDevice",
+      "name": "fyradevice",
+      "legacy_port": "fyradevice-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "FyraInput",
+      "name": "fyrainput",
+      "legacy_port": "fyrainput-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "FyraInput-Gamepad",
+      "name": "fyrainput-gamepad",
+      "legacy_port": "fyrainput-gamepad-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "FyraInput-Keyboard-Mouse",
+      "name": "fyrainput-keyboard-mouse",
+      "legacy_port": "fyrainput-keyboard-mouse-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "HID-Access-Control",
+      "name": "hid-access-control",
+      "legacy_port": "hid-access-control-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "Interception-V2",
+      "name": "interception-v2",
+      "legacy_port": "interception-v2-sdk",
+      "version": "2.0.0"
+    },
+    {
+      "project": "Interceptor",
+      "name": "interceptor",
+      "legacy_port": "interceptor-sdk",
+      "version": "1.4.22"
+    },
+    {
+      "project": "Interceptor-Gamepad-Controller",
+      "name": "interceptor-gamepad-controller",
+      "legacy_port": "interceptor-gamepad-controller-sdk",
+      "version": "1.0.13"
+    },
+    {
+      "project": "Interceptor-Keyboard-Mouse",
+      "name": "interceptor-keyboard-mouse",
+      "legacy_port": "interceptor-keyboard-mouse-sdk",
+      "version": "1.0.5"
+    },
+    {
+      "project": "Interceptor-MultiLang",
+      "name": "interceptor-multilang",
+      "legacy_port": "interceptor-multilang-sdk",
+      "version": "1.0.0"
+    },
+    {
+      "project": "Network-Emulation-SDK",
+      "name": "network-emulation-sdk",
+      "legacy_port": "network-emulation-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Packet-Capture-SDK",
+      "name": "packet-capture-sdk",
+      "legacy_port": "packet-capture-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Process-Trace-Studio",
+      "name": "process-trace-studio",
+      "legacy_port": "process-trace-studio-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "ProcessGuard-SDK",
+      "name": "processguard-sdk",
+      "legacy_port": "processguard-sdk-sdk",
+      "version": "0.1.2"
+    },
+    {
+      "project": "RegistryGuard",
+      "name": "registryguard",
+      "legacy_port": "registryguard-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Remote-Workstation-SDK",
+      "name": "remote-workstation-sdk",
+      "legacy_port": "remote-workstation-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Storage-IO-Flight-Recorder",
+      "name": "storage-io-flight-recorder",
+      "legacy_port": "storage-io-flight-recorder-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Titan-Audio-Link",
+      "name": "titan-audio-link",
+      "legacy_port": "titan-audio-link-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Titan-File-Filter",
+      "name": "titan-file-filter",
+      "legacy_port": "titan-file-filter-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "Titan-Network-Filter",
+      "name": "titan-network-filter",
+      "legacy_port": "titan-network-filter-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "USB-over-IP-SDK",
+      "name": "usb-over-ip-sdk",
+      "legacy_port": "usb-over-ip-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "USB-Trace-SDK",
+      "name": "usb-trace-sdk",
+      "legacy_port": "usb-trace-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "User-Backed-Virtual-Disk-SDK",
+      "name": "user-backed-virtual-disk-sdk",
+      "legacy_port": "user-backed-virtual-disk-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Vdevice",
+      "name": "vdevice",
+      "legacy_port": "vdevice-sdk",
+      "version": "1.0.5"
+    },
+    {
+      "project": "Virtual-Camera-SDK",
+      "name": "virtual-camera-sdk",
+      "legacy_port": "virtual-camera-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Virtual-Network-Adapter-SDK",
+      "name": "virtual-network-adapter-sdk",
+      "legacy_port": "virtual-network-adapter-sdk-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Virtual-Storage-Fault-Lab",
+      "name": "virtual-storage-fault-lab",
+      "legacy_port": "virtual-storage-fault-lab-sdk",
+      "version": "0.1.1"
+    },
+    {
+      "project": "Windows-Gamepad-Filter",
+      "name": "windows-gamepad-filter",
+      "legacy_port": "windows-gamepad-filter-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "Windows-Input-Filter",
+      "name": "windows-input-filter",
+      "legacy_port": "windows-input-filter-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "Windows-Keyboard-Mouse-Filter",
+      "name": "windows-keyboard-mouse-filter",
+      "legacy_port": "windows-keyboard-mouse-filter-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "project": "Windows-Virtual-Devices",
+      "name": "windows-virtual-devices",
+      "legacy_port": "windows-virtual-devices-sdk",
+      "version": "0.1.0"
     }
   ]
 }

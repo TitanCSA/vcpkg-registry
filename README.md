@@ -65,3 +65,47 @@ default registry configured for the vcpkg CMake helper dependencies.
 - `windows-keyboard-mouse-filter-sdk` 0.1.0 â€” [Windows-Keyboard-Mouse-Filter](https://github.com/titanfyre/Windows-Keyboard-Mouse-Filter/releases/download/sdk-v0.1.0/windows-keyboard-mouse-filter-sdk-0.1.0.tar.gz)
 - `windows-virtual-devices-sdk` 0.1.0 â€” [Windows-Virtual-Devices](https://github.com/titanfyre/Windows-Virtual-Devices/releases/download/sdk-v0.1.0/windows-virtual-devices-sdk-0.1.0.tar.gz)
 - `windows-virtual-usb-sdk` 0.1.0 â€” [Windows-Virtual-USB](https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/sdk-v0.1.0/windows-virtual-usb-sdk-0.1.0.tar.gz)
+
+## Simple project names
+
+37 accessible SDKs now also use their project names, for example `interceptor`, `browser-control-sdk` and `cloud-files-sdk`. These aliases depend on the original ports, which remain available for existing consumers. Include **both names** in the Git registry package list, for example `["interceptor", "interceptor-sdk"]`, then depend on `interceptor` in your manifest. Use the updated immutable baseline from `publication.json`.
+
+Four StrikeFound upstream repositories are unavailable; no new alias is published for those projects. This remains a custom registry, not the Microsoft curated catalog.
+
+- `autohotinterceptor` forwards to `autohotinterceptor-sdk`
+- `browser-control-sdk` forwards to `browser-control-sdk-sdk`
+- `changed-block-tracking-sdk` forwards to `changed-block-tracking-sdk-sdk`
+- `cloud-files-sdk` forwards to `cloud-files-sdk-sdk`
+- `connection-trace-studio` forwards to `connection-trace-studio-sdk`
+- `file-trace-studio` forwards to `file-trace-studio-sdk`
+- `fyradevice` forwards to `fyradevice-sdk`
+- `fyrainput` forwards to `fyrainput-sdk`
+- `fyrainput-gamepad` forwards to `fyrainput-gamepad-sdk`
+- `fyrainput-keyboard-mouse` forwards to `fyrainput-keyboard-mouse-sdk`
+- `hid-access-control` forwards to `hid-access-control-sdk`
+- `interception-v2` forwards to `interception-v2-sdk`
+- `interceptor` forwards to `interceptor-sdk`
+- `interceptor-gamepad-controller` forwards to `interceptor-gamepad-controller-sdk`
+- `interceptor-keyboard-mouse` forwards to `interceptor-keyboard-mouse-sdk`
+- `interceptor-multilang` forwards to `interceptor-multilang-sdk`
+- `network-emulation-sdk` forwards to `network-emulation-sdk-sdk`
+- `packet-capture-sdk` forwards to `packet-capture-sdk-sdk`
+- `process-trace-studio` forwards to `process-trace-studio-sdk`
+- `processguard-sdk` forwards to `processguard-sdk-sdk`
+- `registryguard` forwards to `registryguard-sdk`
+- `remote-workstation-sdk` forwards to `remote-workstation-sdk-sdk`
+- `storage-io-flight-recorder` forwards to `storage-io-flight-recorder-sdk`
+- `titan-audio-link` forwards to `titan-audio-link-sdk`
+- `titan-file-filter` forwards to `titan-file-filter-sdk`
+- `titan-network-filter` forwards to `titan-network-filter-sdk`
+- `usb-over-ip-sdk` forwards to `usb-over-ip-sdk-sdk`
+- `usb-trace-sdk` forwards to `usb-trace-sdk-sdk`
+- `user-backed-virtual-disk-sdk` forwards to `user-backed-virtual-disk-sdk-sdk`
+- `vdevice` forwards to `vdevice-sdk`
+- `virtual-camera-sdk` forwards to `virtual-camera-sdk-sdk`
+- `virtual-network-adapter-sdk` forwards to `virtual-network-adapter-sdk-sdk`
+- `virtual-storage-fault-lab` forwards to `virtual-storage-fault-lab-sdk`
+- `windows-gamepad-filter` forwards to `windows-gamepad-filter-sdk`
+- `windows-input-filter` forwards to `windows-input-filter-sdk`
+- `windows-keyboard-mouse-filter` forwards to `windows-keyboard-mouse-filter-sdk`
+- `windows-virtual-devices` forwards to `windows-virtual-devices-sdk`
