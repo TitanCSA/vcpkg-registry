@@ -1,6 +1,6 @@
 {
   "registry": "https://github.com/TitanCSA/vcpkg-registry",
-  "baseline": "7110d89cb78ae7167bf6a07403aa2396111bef2a",
+  "baseline": "2a5f4f4037f5fbd911344250e43e7a1d48e04fe6",
   "curated_microsoft_registry": false,
   "ports": [
     {
