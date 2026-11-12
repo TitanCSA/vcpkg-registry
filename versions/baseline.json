@@ -6,7 +6,7 @@
     },
     "browser-control-sdk-sdk": {
       "baseline": "0.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "changed-block-tracking-sdk-sdk": {
       "baseline": "0.1.1",
@@ -46,7 +46,7 @@
     },
     "interception-v2-sdk": {
       "baseline": "2.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "interceptor-sdk": {
       "baseline": "1.4.22",
