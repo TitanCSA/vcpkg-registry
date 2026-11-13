@@ -2,135 +2,135 @@
   "default": {
     "autohotinterceptor-sdk": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "browser-control-sdk-sdk": {
       "baseline": "0.2.0",
-      "port-version": 1
+      "port-version": 2
     },
     "changed-block-tracking-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "cloud-files-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "connection-trace-studio-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "file-trace-studio-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "fyradevice-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "fyrainput-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "fyrainput-gamepad-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "fyrainput-keyboard-mouse-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "hid-access-control-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "interception-v2-sdk": {
       "baseline": "2.0.0",
-      "port-version": 1
+      "port-version": 2
     },
     "interceptor-sdk": {
       "baseline": "1.4.22",
-      "port-version": 0
+      "port-version": 1
     },
     "interceptor-gamepad-controller-sdk": {
       "baseline": "1.0.13",
-      "port-version": 0
+      "port-version": 1
     },
     "interceptor-keyboard-mouse-sdk": {
       "baseline": "1.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "interceptor-multilang-sdk": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "network-emulation-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "packet-capture-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "process-trace-studio-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "processguard-sdk-sdk": {
       "baseline": "0.1.2",
-      "port-version": 0
+      "port-version": 1
     },
     "registryguard-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "remote-workstation-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "storage-io-flight-recorder-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "titan-audio-link-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "titan-file-filter-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "titan-network-filter-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "usb-over-ip-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "usb-trace-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "user-backed-virtual-disk-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "vdevice-sdk": {
       "baseline": "1.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "virtual-camera-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "virtual-network-adapter-sdk-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "virtual-storage-fault-lab-sdk": {
       "baseline": "0.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "windows-gamepad-bridge-sdk": {
       "baseline": "0.1.0",
@@ -138,7 +138,7 @@
     },
     "windows-gamepad-filter-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "windows-input-bridge-sdk": {
       "baseline": "0.1.0",
@@ -146,7 +146,7 @@
     },
     "windows-input-filter-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "windows-keyboard-mouse-bridge-sdk": {
       "baseline": "0.1.0",
@@ -154,11 +154,11 @@
     },
     "windows-keyboard-mouse-filter-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "windows-virtual-devices-sdk": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "windows-virtual-usb-sdk": {
       "baseline": "0.1.0",
@@ -314,7 +314,7 @@
     },
     "node-interceptor-sdk": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "node-interceptor": {
       "baseline": "1.0.0",
