@@ -1,0 +1,11 @@
+{
+  "name": "node-interceptor",
+  "version-string": "1.0.0",
+  "description": "Project-name alias for the Node Interceptor native SDK.",
+  "homepage": "https://github.com/TitanCSA/node-interceptor",
+  "license": "LGPL-3.0-or-later",
+  "supports": "windows & x64 & !uwp",
+  "dependencies": [
+    "node-interceptor-sdk"
+  ]
+}
