@@ -109,3 +109,5 @@ Four StrikeFound upstream repositories are unavailable; no new alias is publishe
 - `windows-input-filter` forwards to `windows-input-filter-sdk`
 - `windows-keyboard-mouse-filter` forwards to `windows-keyboard-mouse-filter-sdk`
 - `windows-virtual-devices` forwards to `windows-virtual-devices-sdk`
+
+- `node-interceptor` forwards to `node-interceptor-sdk` (LGPL-3.0-or-later, Windows x64).
