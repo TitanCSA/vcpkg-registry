@@ -1,5 +1,11 @@
 # TitanCSA Windows SDK vcpkg registry
 
+<!-- simple-start:start -->
+Install TitanCSA C++ libraries with vcpkg.
+
+**Start here.** Follow the registry setup below, then choose the package you need.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Request the full driver without the one-hour demo limit**
 >
