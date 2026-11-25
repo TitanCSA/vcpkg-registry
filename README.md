@@ -1,5 +1,10 @@
 # TitanCSA Windows SDK vcpkg registry
 
+> [!IMPORTANT]
+> **Request the full driver without the one-hour demo limit**
+>
+> On [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send the project name. Mention the matching driver or edition. TitanCSA shares purchase details privately.
+
 A **custom Git registry**, separate from Microsoft's curated vcpkg registry.
 Ports build the existing public user-mode Windows x64 SDK source packages.
 No kernel driver, installer or activation key is installed by these ports.
